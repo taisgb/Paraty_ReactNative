@@ -1,6 +1,6 @@
 # 📱 Projeto Paraty
 
-Este é um aplicativo mobile desenvolvido com **React Native + Expo** que apresenta informações sobre a cidade de **Paraty**, incluindo opções de restaurantes, passeios e hospedagens.
+Este é um aplicativo mobile desenvolvido com **React Native + Expo** que apresenta informações sobre a cidade de **Paraty**, incluindo opções de restaurantes, passeios e hospedagens. Projeto desenvolvido como prática de navegação com React Native.
 
 ---
 
@@ -55,15 +55,23 @@ Abra no **emulador** ou use o app **Expo Go** para escanear o QR Code.
 
 ---
 
-## 🖼️ Capturas de Tela
+<h3>🏠 Tela Inicial</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/72581fd6-3b92-4664-b1e7-16abdf0bbb70" width="250" />
+</p>
 
-Adicione aqui imagens do projeto (ex: tela inicial, tela de restaurantes, etc.):
+<h3>🍽️ Exemplo de Restaurante</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c01d709b-2018-4b28-858a-9c5397017187" width="250" />
+</p>
 
-(![Screenshot_20250527_122702](https://github.com/user-attachments/assets/72581fd6-3b92-4664-b1e7-16abdf0bbb70)
+<h3>🚤 Exemplo de Passeio</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/59997b54-5fca-4ec9-9d40-14c65d6706a9" width="250" />
+</p>
 
-![Exemplo de restaurante](![Screenshot_20250527_122714](https://github.com/user-attachments/assets/c01d709b-2018-4b28-858a-9c5397017187)
-)
-![Exemplo de passeio](![Screenshot_20250527_122722](https://github.com/user-attachments/assets/59997b54-5fca-4ec9-9d40-14c65d6706a9)
-)
-![Exemplo de hospedagem](![Screenshot_20250527_122730](https://github.com/user-attachments/assets/42e2c714-820d-4b0c-8510-57c7a15cfe81)
-)
+<h3>🏨 Exemplo de Hospedagem</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/42e2c714-820d-4b0c-8510-57c7a15cfe81" width="250" />
+</p>
+
